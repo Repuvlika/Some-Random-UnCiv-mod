@@ -1,5 +1,5 @@
 [
-  { "name": "Immortal",
+  { "name": "Unified",
     "uniques": ["Only available <for [Human player] Civilizations> <hidden from users>",
     "[100] HP when healing", 
     "May heal outside of friendly territory",
@@ -12,5 +12,7 @@
     "Can pass through impassable tiles",
     "May attack when embarked",
     "Can move immediately once bought",
-    "No damage penalty for wounded units"]}
+    "No damage penalty for wounded units",
+    "[+100]% Strength <when fighting in [Open terrain] tiles> <when attacking>",
+    "[+100]% Strength <when fighting in [Rough terrain] tiles> <when attacking>",]}
 ]
