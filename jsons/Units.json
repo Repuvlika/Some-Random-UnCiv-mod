@@ -7,10 +7,24 @@
 		"movement": 6,
 		"strength": 155,
 		"range": 4,
-		"cost": 500,
+		"cost": 50,
 		"requiredTech": "Refrigeration",
-		"requiredResource": "Oil",
+		"uniques": ["[+65]% Strength <when fighting in [Foreign Land] tiles>"]
 		"promotions": ["Unified"],
 		"attackSound": "shot"
+	},
+	{
+		"name": "Marlientosk",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Svilia",
+		"replaces": "Machine Gunner",
+		"movement": 7,
+		"strength": 155,
+		"rangedStrength": 150,
+		"range": 8,
+		"cost": 50,
+		"requiredTech": "Refrigeration",
+		"promotions": ["Unified"],
+		"attackSound": "machinegun"
 	}
 ]
