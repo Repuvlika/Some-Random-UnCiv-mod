@@ -1,1 +1,82 @@
-
+[
+    {
+        "name": "Svilian Collectivism",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+        },
+      "uniques": [
+            "[+5 Culture] [in all cities]",
+            "[-25]% Culture cost of natural border growth [in all cities]"
+        ],
+        "policies": [
+            {
+                "name": "Control",
+                "uniqueTo": "Svilia",
+                "uniques": [
+                    "[+250]% Production when constructing [All] wonders [in all cities]",
+                    "[+250]% [Production] [in all cities]",
+                    "[+15 Happiness] per [1] population [in all cities]",
+                    "[+9999 Gold] per [3] population [in all cities]",
+                    "[3] Free Social Policies",
+                    "[3] Free Technologies"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Order",
+                "uniqueTo": "Svilia",
+                "uniques": [
+                    "[+100]% [Culture] [in all cities]",
+                    "[2] Free Social Policies",
+                    "[3] Free Technologies"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Compliance",
+                "uniqueTo": "Svilia",
+                "uniques": [
+                    "[+50]% Strength for cities <with a garrison> <when attacking>",
+                    "[-100]% weight to this choice for AI decisions"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Militarized Economy",
+                "uniques": [
+                    "All Units cost no Maintenance",
+                    "[+15]% growth [in all cities]",
+                    "[+10 Food] [in all cities]"
+                ],
+                "requires": ["Control"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Ultranationalism",
+                "uniques": [
+                    "[+15 Gold, +10 Happiness, +50 Culture] per [1] population [in capital]",
+                    "[+95]% [Production] [in all cities]"
+                ],
+                "requires": ["Control"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Svilian Collectivism Complete",
+                "uniques": [
+                    "[+100]% growth [in all cities]",
+                    "Provides a [Aqueduct] in your first [12] cities for free"
+                ]
+            }
+        ]
+    }
+]
