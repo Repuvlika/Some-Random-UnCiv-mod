@@ -1,3 +1,5 @@
-# test mod for unciv
+# just a random fun test mod
 
-This is just a test mod, but you can download it if you want
+my first try at a mod
+
+You can download it, but you may encounter some bugs. Compatible only with FantasyHex.
