@@ -2,4 +2,4 @@
 
 my first try at a mod
 
-You can download it, but you may encounter some bugs. Compatible only with FantasyHex.
+You can download it, but you may encounter some bugs.
