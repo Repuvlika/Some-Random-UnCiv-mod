@@ -1,38 +1,33 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Svilia",
+		"leaderName": "Valeska Davoren*",
+		"startBias": ["Grassland","Hill","Avoid [Tundra]","Avoid [Snow]"],
 		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"startIntroPart1": "Svilia is a nation defined by it's unyielding commitment to unity, order, and centralized power. Born from decades of oppression by the Naveil Empire, it emerged through revolution and reconstruction as a tightly controlled state, where loyalty to The Collective outweighs all else. Scarred by occupation and oppression, Svilia rejects fragmentation of all forms, and rises from the remains of the empire that had oppressed them for so long.",
+		"declaringWar": "By order of The Collective and in accordance with our directives of national preservation, we hereby declare war on your nation. Your continued deviation from cooperative protocols have been deemed intolerable. Compliance was requested. Resistance was chosen. Order will now be imposed.",
+		"attacked": "So be it. The Collective endures.",
+		"defeated": "Structure may fall. Order does not.",
+		"introduction": "Salutations from The Collective. Compliance will be expected. Obey or face the wrath of our superior nation.",
+		"neutralHello": ".",
+		"hateHello": "Your presence offends The Collective. Do not tread farther or face the consequences.",
+		"afterPeace": "We will meet again. For now, Peace has been achieved.",
+		"tradeRequest": "The Collective expects acceptance.",
+		"outerColor": [0,0,0],
+		"innerColor": [0,150,255],
+		"uniqueName": "The Heavenly Grace",
+		"uniques": ["[+100]% [Faith] [in all cities]",
+			"[+1 Faith] per [1] population [in all cities]",
+			"[+100]% [Gold] [in all cities]",
+			"[+1 Gold] per [1] population [in all cities]",
+			"[+100]% [Science] [in all cities]",
+			"[+1000]% Golden Age length",
+			"[+1 Science] per [1] population [in all cities]",
+			"May buy [All] units for [0] [Culture] [in all cities]",
+			"All newly-trained [All] units [in all cities] receive the [Immortal] promotion",
+			"Defense bonus when embarked <for [All] units>",
+			"New [All] units start with [200000] Experience [in all cities]",
+			"Quantity of strategic resources produced by the empire +[200000]%"],
+		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren","Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon","Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin","Kistrisxy"]
 	}
 ]
