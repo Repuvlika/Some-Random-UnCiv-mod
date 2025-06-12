@@ -9,13 +9,13 @@
 		"attacked": "So be it. The Collective endures.",
 		"defeated": "Structure may fall. Order does not.",
 		"introduction": "Salutations from The Collective. Compliance will be expected. Obey or face the wrath of our superior nation.",
-		"neutralHello": ".",
+		"neutralHello": "The Collective awaits.",
 		"hateHello": "Your presence offends The Collective. Do not tread farther or face the consequences.",
-		"afterPeace": "We will meet again. For now, Peace has been achieved.",
+		"afterPeace": "We will meet again. For now..",
 		"tradeRequest": "The Collective expects acceptance.",
 		"outerColor": [0,0,0],
 		"innerColor": [0,150,255],
-		"uniqueName": "The Heavenly Grace",
+		"uniqueName": "National Unity",
 		"uniques": ["[+100]% [Faith] [in all cities]",
 			"[+1 Faith] per [1] population [in all cities]",
 			"[+100]% [Gold] [in all cities]",
@@ -28,6 +28,6 @@
 			"Defense bonus when embarked <for [All] units>",
 			"New [All] units start with [200000] Experience [in all cities]",
 			"Quantity of strategic resources produced by the empire +[200000]%"],
-		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren","Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon","Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin","Kistrisxy"]
+		"cities": ["Corevna","","Xizev","Cesixe","Ayoren","Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon","Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin","Kistrisxy"]
 	}
 ]
