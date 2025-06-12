@@ -29,7 +29,7 @@
                 "column": 1
             },
             {
-                "name": "Order",
+                "name": "Propaganda",
                 "uniqueTo": "Svilia",
                 "uniques": [
                     "[+100]% [Culture] [in all cities]",
