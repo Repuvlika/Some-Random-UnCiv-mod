@@ -3,7 +3,7 @@
 		"name": "Svilia",
 		"leaderName": "Valeska Davoren*",
 		"startBias": ["Grassland","Hill","Avoid [Tundra]","Avoid [Snow]"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		"startIntroPart1": "Svilia is a nation defined by it's unyielding commitment to unity, order, and centralized power. Born from decades of oppression by the Naveil Empire, it emerged through revolution and reconstruction as a tightly controlled state, where loyalty to The Collective outweighs all else. Scarred by occupation and oppression, Svilia rejects fragmentation of all forms, and rises from the remains of the empire that had oppressed them for so long.",
 		"declaringWar": "By order of The Collective and in accordance with our directives of national preservation, we hereby declare war on your nation. Your continued deviation from cooperative protocols have been deemed intolerable. Compliance was requested. Resistance was chosen. Order will now be imposed.",
 		"attacked": "So be it. The Collective endures.",
@@ -23,11 +23,14 @@
 			"[+500]% [Science] [in all cities]",
 			"[+2500]% Golden Age length",
 			"[+100 Science] per [1] population [in all cities]",
+			"[+500]% [Happiness] [in all cities]",
+			"[+100 Happiness] per [1] population [in all cities]",
 			"May buy [All] units for [0] [Culture] [in all cities]",
-			"All newly-trained [All] units [in all cities] receive the [Immortal] promotion",
+			"All newly-trained [All] units [in all cities] receive the [Unified] promotion",
 			"Defense bonus when embarked <for [All] units>",
-			"New [All] units start with [200000] Experience [in all cities]",
-			"Quantity of strategic resources produced by the empire +[200000]%"],
-		"cities": ["Corevna","","Xizev","Cesixe","Ayoren","Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon","Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin","Kistrisxy"]
+			"New [All] units start with [500000] Experience [in all cities]",
+			"Quantity of strategic resources produced by the empire +[35000]%",
+			"Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns"],
+		"cities": ["Corevna","Kaleniavosk","Primastol","Sivenrad","Harmonstadt","Redrail","Commalis","Ondertiz","Forgepoint","Railien","Dravnik","Volmek","Ironroot","New Equitas","Verdaxa","Statenhal","Pressium","Welmark","Veilcreif","Ovilisk","New Ivia","Pax Kreine"]
 	}
 ]
