@@ -11,7 +11,9 @@
 		"requiredTech": "Refrigeration",
 		"uniques": ["[+100]% Strength <when fighting in [Foreign Land] tiles>"]
 		"promotions": ["Unified"],
-		"uniques": [ "Never appears as a Barbarian unit", "[+250]% Strength <vs [All] units", "[5] additional attacks per turn" ],
+		"uniques": [ "Never appears as a Barbarian unit", 
+		"[+250]% Strength <vs [All] units", 
+		"[5] additional attacks per turn" ],
 		"attackSound": "shot"
 	},
 	{
@@ -26,7 +28,9 @@
 		"cost": 1,
 		"requiredTech": "Refrigeration",
 		"promotions": ["Unified"],
-		"uniques": [ "Never appears as a Barbarian unit", "[+250]% Strength <vs [All] units", "[5] additional attacks per turn" ],
+		"uniques": [ "Never appears as a Barbarian unit", 
+		"[+250]% Strength <vs [All] units", 
+		"[5] additional attacks per turn" ],
 		"attackSound": "machinegun"
 	},
 		{
@@ -40,7 +44,9 @@
 		"requiredTech": "Radio",
 		"upgradesTo": "CVT Elite ParaCorps",
 		"promotions": ["Unified"],
-		"uniques": ["May Paradrop up to [15] tiles from inside friendly territory", "Never appears as a Barbarian unit", "[-30]% Strength <vs [Armored] units>"],
+		"uniques": ["May Paradrop up to [15] tiles from inside friendly territory", 
+		"Never appears as a Barbarian unit", 
+		"[-30]% Strength <vs [Armored] units>"],
 		"attackSound": "shot"
 	},
 	{
@@ -52,7 +58,9 @@
 		"cost": 1,
 		"requiredTech": "Radar",
 		"promotions": ["Unified"],
-		"uniques": ["May Paradrop up to [30] tiles from inside friendly territory", "Never appears as a Barbarian unit", "[3] additional attacks per turn", "[-25]% Strength <vs [Armored] units>"],
+		"uniques": ["May Paradrop up to [30] tiles from inside friendly territory", 
+		"Never appears as a Barbarian unit", "[3] additional attacks per turn", 
+		"[-25]% Strength <vs [Armored] units>"],
 		"attackSound": "shot"
 	},
 	{
@@ -66,7 +74,10 @@
 		"requiredTech": "Combustion",
 		"upgradesTo": "Elite Armored Guard",
 		"promotions": "["Unified"]",
-		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit", "[5] additional attacks per turn", "[+50]% Strength <vs [Armored] units>"],
+		"uniques": ["Can move after attacking", 
+		"Never appears as a Barbarian unit", 
+		"[5] additional attacks per turn", 
+		"[+50]% Strength <vs [Armored] units>"],
 		"attackSound": "tankshot"
 	},
 		{
@@ -78,8 +89,11 @@
 		"strength": 610,
 		"cost": 1,
 		"requiredTech": "Computers",
-		"promotions": "["Unified"]",
-		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit", "[5] additional attacks per turn", "[+25]% Strength <vs [Armored] units>"],
+		"promotions": ["Unified"],
+		"uniques": ["Can move after attacking", 
+		"Never appears as a Barbarian unit", 
+		"[5] additional attacks per turn", 
+		"[+25]% Strength <vs [Armored] units>"],
 		"attackSound": "tankshot"
 	},
 	{ 
@@ -93,6 +107,32 @@
 		"cost": 1,
 		"promotions": ["Unified"]
 		"attackSound": "nuke", 
-		"uniques": [ "Only available <for [Human player] Civilizations> <hidden from users>", "Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "Can perform Air Sweep", "Normal vision when embarked", "Can enter ice tiles", "[100]% chance to intercept air attacks", "Unit will heal every turn, even if it performs an action", "Can pass through impassable tiles", "Uncapturable", "[20] additional attacks per turn", "Blast radius [3]", "[10] Sight", "[10] Range", "Withdraws before melee (with [50]% chance)", "Can move after attacking", "Can see over obstacles", "Invisible to non-adjacent units", "Invisible to others", "Can see invisible [All] units", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "No movement cost to pillage", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "Eliminates combat penalty for attacking over a river", "Ranged attacks may be performed over obstacles" ]
+		"uniques": [ "Only available <for [Human player] Civilizations> <hidden from users>", 
+		"Never appears as a Barbarian unit", "Can move after attacking", 
+		"Can move immediately once bought", 
+		"Can perform Air Sweep", 
+		"Normal vision when embarked", 
+		"Can enter ice tiles", 
+		"[100]% chance to intercept air attacks", 
+		"Unit will heal every turn, even if it performs an action", 
+		"Can pass through impassable tiles", 
+		"Uncapturable",
+		"[20] additional attacks per turn", 
+		"Blast radius [3]", 
+		"[10] Sight", 
+		"[10] Range", 
+		"Withdraws before melee (with [50]% chance)", 
+		"Can move after attacking", 
+		"Can see over obstacles", 
+		"Invisible to non-adjacent units", 
+		"Invisible to others", 
+		"Can see invisible [All] units", 
+		"All tiles cost 1 movement", 
+		"May travel on Water tiles without embarking", 
+		"No movement cost to pillage", 
+		"Eliminates combat penalty for attacking across a coast", 
+		"May attack when embarked", 
+		"Eliminates combat penalty for attacking over a river", 
+		"Ranged attacks may be performed over obstacles" ]
 	}
 ]
