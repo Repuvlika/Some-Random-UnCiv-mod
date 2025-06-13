@@ -13,7 +13,7 @@
 		"hateHello": "Your presence offends The Collective. Do not tread farther or face the consequences.",
 		"afterPeace": "We will meet again. For now..",
 		"tradeRequest": "The Collective expects acceptance.",
-		"outerColor": [255,248,139],
+		"outerColor": [218,182,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "National Unity",
 		"uniques": ["[+500]% [Faith] [in all cities]",
