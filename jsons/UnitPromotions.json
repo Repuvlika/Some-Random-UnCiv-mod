@@ -1,5 +1,6 @@
 [
-  { "name": "Unified",
+  { 
+    "name": "Unified",
     "uniques": ["Only available <for [Human player] Civilizations> <hidden from users>",
     "[100] HP when healing", 
     "May heal outside of friendly territory",
@@ -16,7 +17,29 @@
     "[+100]% Strength <when fighting in [Open terrain] tiles> <when attacking>",
     "[+100]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"]
   },
-  { "name": "Elite",
+  { 
+    "name": "Armored Plating I",
+    "uniques": ["Only available <for [Human player] Civilizations> <hidden from users>",
+    "[100] HP when healing", 
+    "May heal outside of friendly territory",
+    "All healing effects doubled",
+    "Heals [50] damage if it kills a unit",
+    "Unit will heal every turn, even if it performs an action",
+    "Can see invisible [All] units",
+    "Ignores terrain cost",
+    "Ignores Zone of Control",
+    "Can pass through impassable tiles",
+    "May attack when embarked",
+    "Can move immediately once bought",
+    "No damage penalty for wounded units",
+    "Uncapturable",
+    "Never appears as a Barbarian unit",
+    "[+100]% Strength <when fighting in [Open terrain] tiles> <when attacking>",
+    "[+25]% Strength <when fighting in [Rough terrain] tiles> <when attacking>",
+    "[+50]% Strength <when defending>"]
+  },
+  {
+    "name": "Armored Plating II",
     "uniques": ["Only available <for [Human player] Civilizations> <hidden from users>",
     "[100] HP when healing", 
     "May heal outside of friendly territory",
@@ -32,13 +55,8 @@
     "No damage penalty for wounded units",
     "Uncapturable",
     "Never appears as a Barbarian unit",
-    "Can perform Air Sweep",
-    "[20] additional attacks per turn", 
-    "Blast radius [3]",
-    "[10] Sight",
-    "[10] Range",
-    "[100]% chance to intercept air attacks",
-    "[+500]% Strength <when fighting in [Open terrain] tiles> <when attacking>",
-    "[+500]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"]
+    "[+450]% Strength <when fighting in [Open terrain] tiles> <when attacking>",
+    "[+100]% Strength <when fighting in [Rough terrain] tiles> <when attacking>",
+    "[+100]% Strength <when defending>"]
   }
 ]
