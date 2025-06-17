@@ -1,6 +1,6 @@
 # just a random fun test mod
 
-My first try at a mod, deciv version coming out soon
+My first try at a mod, more stuff coming soon
 
 Updated as of 6/17/2025
 
