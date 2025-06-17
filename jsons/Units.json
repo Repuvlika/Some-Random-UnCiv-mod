@@ -11,8 +11,9 @@
 		"requiredTech": "Refrigeration",
 		"uniques": ["[+100]% Strength <when fighting in [Foreign Land] tiles>"]
 		"promotions": ["Unified"],
-		"uniques": [ "Never appears as a Barbarian unit", 
-		"[+250]% Strength <vs [All] units", 
+		"uniques": [ "Only available <for [Human player] Civilizations> <hidden from users>",
+		"Never appears as a Barbarian unit", 
+		"[+250]% Strength <vs [All] units>", 
 		"[5] additional attacks per turn" ],
 		"attackSound": "shot"
 	},
@@ -28,12 +29,13 @@
 		"cost": 1,
 		"requiredTech": "Refrigeration",
 		"promotions": ["Unified"],
-		"uniques": [ "Never appears as a Barbarian unit", 
-		"[+250]% Strength <vs [All] units", 
+		"uniques": [ "Only available <for [Human player] Civilizations> <hidden from users>",
+		"Never appears as a Barbarian unit", 
+		"[+250]% Strength <vs [All] units>", 
 		"[5] additional attacks per turn" ],
 		"attackSound": "machinegun"
 	},
-		{
+	{
 		"name": "CLT ParaCorps",
 		"uniqueTo": "Svilia",
 		"unitType": "Gunpowder",
@@ -44,9 +46,10 @@
 		"requiredTech": "Radio",
 		"upgradesTo": "CVT Elite ParaCorps",
 		"promotions": ["Unified"],
-		"uniques": ["May Paradrop up to [15] tiles from inside friendly territory", 
+		"uniques": ["Only available <for [Human player] Civilizations> <hidden from users>",
+		"May Paradrop up to [15] tiles from inside friendly territory", 
 		"Never appears as a Barbarian unit", 
-		"[-30]% Strength <vs [Armored] units>"],
+		"[-30]% Strength <vs [Land] units>"],
 		"attackSound": "shot"
 	},
 	{
@@ -58,9 +61,11 @@
 		"cost": 1,
 		"requiredTech": "Radar",
 		"promotions": ["Unified"],
-		"uniques": ["May Paradrop up to [30] tiles from inside friendly territory", 
-		"Never appears as a Barbarian unit", "[3] additional attacks per turn", 
-		"[-25]% Strength <vs [Armored] units>"],
+		"uniques": ["Only available <for [Human player] Civilizations> <hidden from users>",
+		"May Paradrop up to [30] tiles from inside friendly territory", 
+		"Never appears as a Barbarian unit", 
+		"[3] additional attacks per turn", 
+		"[-25]% Strength <vs [Land] units>"],
 		"attackSound": "shot"
 	},
 	{
@@ -73,11 +78,12 @@
 		"cost": 1,
 		"requiredTech": "Combustion",
 		"upgradesTo": "Elite Armored Guard",
-		"promotions": ["Unified", "Armored Plating I"],
-		"uniques": ["Can move after attacking", 
+		"promotions": ["Unified", "Armored Plating I", "Armored Plating II"],
+		"uniques": ["Only available <for [Human player] Civilizations> <hidden from users>"	
+		"Can move after attacking", 
 		"Never appears as a Barbarian unit", 
 		"[5] additional attacks per turn", 
-		"[+50]% Strength <vs [Armored] units>"],
+		"[+50]% Strength <vs [All] units>"],
 		"attackSound": "tankshot"
 	},
 		{
@@ -89,11 +95,12 @@
 		"strength": 610,
 		"cost": 1,
 		"requiredTech": "Computers",
-		"promotions": ["Unified", "Armored Plating II"],
-		"uniques": ["Can move after attacking", 
+		"promotions": ["Unified", "Armored Plating I", "Armored Plating II"],
+		"uniques": ["Only available <for [Human player] Civilizations> <hidden from users>",
+		"Can move after attacking", 
 		"Never appears as a Barbarian unit", 
 		"[5] additional attacks per turn", 
-		"[+25]% Strength <vs [Armored] units>"],
+		"[+25]% Strength <vs [All] units>"],
 		"attackSound": "tankshot"
 	},
 	{ 
@@ -105,13 +112,14 @@
 		"rangedStrength": 9999,
 		"range": 25,
 		"cost": 1,
+		"requiredTech": "Agriculture",
 		"promotions": ["Unified"]
 		"attackSound": "nuke", 
 		"uniques": [ "Only available <for [Human player] Civilizations> <hidden from users>", 
 		"Never appears as a Barbarian unit", "Can move after attacking", 
 		"Can move immediately once bought", 
 		"Can perform Air Sweep", 
-		"Normal vision when embarked", 
+		"[+10] Sight <when [Embarked]>",
 		"Can enter ice tiles", 
 		"[100]% chance to intercept air attacks", 
 		"Unit will heal every turn, even if it performs an action", 
@@ -121,7 +129,7 @@
 		"Blast radius [3]", 
 		"[10] Sight", 
 		"[10] Range", 
-		"Withdraws before melee (with [50]% chance)", 
+		"Withdraws before melee combat <with [50]% chance>", 
 		"Can move after attacking", 
 		"Can see over obstacles", 
 		"Invisible to non-adjacent units", 
