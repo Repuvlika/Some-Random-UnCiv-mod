@@ -53,7 +53,7 @@
             {
                 "name": "Militarized Economy",
                 "uniques": [
-                    "All Units cost no Maintenance",
+                    "[99999] units cost no maintenance",
                     "[+15]% growth [in all cities]",
                     "[+50 Food, +25 Production, +5 Happiness] [in all cities]"
                 ],
@@ -70,6 +70,19 @@
                 "requires": ["Control"],
                 "row": 2,
                 "column": 4
+            },
+			{
+                "name": "Absoloute Power",
+                "uniques": [
+                    "[+15 Gold, +10 Happiness, +50 Culture] per [1] population [in capital]",
+					"[+30]% growth [in all cities]",
+                    "[+95]% [Production] [in all cities]",
+					"[+50]% Strength for cities <with a garrison> <when attacking>",
+					"[500]% Strength for cities <when defending>",
+                ],
+                "requires": ["Ultranationalism", "Militarized Economy"],
+                "row": 3,
+                "column": 3
             },
             {
                 "name": "Svilian Collectivism Complete",
